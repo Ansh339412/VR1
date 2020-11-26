@@ -1,2 +1,2 @@
-# VR-PRO-C01
-VR lesson C01 Project
+# VR-PRO-C145
+VR lesson C145 Project
